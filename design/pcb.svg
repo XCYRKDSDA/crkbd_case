@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="136.27428582mm" height="94.58767987580512mm" viewBox="0 0 136.27428582 94.58767987580512" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Wire" transform="translate(0.836022,0.836022) scale(1,-1)">
+<path id="Wire_w0000"  d="M 0.5 -7.625 L 38.5 -7.625 L 38.5 -2.875 L 57.5 -2.875 L 57.5 -0.5 L 75.5 -0.5 L 75.5 -2.875 L 94.5 -2.875 L 94.5 -5.25 L 113.5 -5.25 L 113.5 -7.5 L 134.102241 -7.5 L 134.102241 -68.27516340374751 L 120.16473318888352 -92.41563505580513 L 103.87662782656137 -83.40167213889102 L 66.79601875363423 -78.53456593057363 L 57.27394303326785 -63.625 L 0.5 -63.625 L 0.5 -7.625 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Wire'</title>
+</g>
+</svg>
