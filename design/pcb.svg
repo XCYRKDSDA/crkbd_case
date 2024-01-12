@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="136.27428582mm" height="94.58767987580512mm" viewBox="0 0 136.27428582 94.58767987580512" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Wire" transform="translate(0.836022,0.836022) scale(1,-1)">
-<path id="Wire_w0000"  d="M 0.5 -7.625 L 38.5 -7.625 L 38.5 -2.875 L 57.5 -2.875 L 57.5 -0.5 L 75.5 -0.5 L 75.5 -2.875 L 94.5 -2.875 L 94.5 -5.25 L 113.5 -5.25 L 113.5 -7.5 L 134.102241 -7.5 L 134.102241 -68.27516340374751 L 120.16473318888352 -92.41563505580513 L 103.87662782656137 -83.40167213889102 L 66.79601875363423 -78.53456593057363 L 57.27394303326785 -63.625 L 0.5 -63.625 L 0.5 -7.625 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<title>b'Wire'</title>
+<svg width="137.29428581999997mm" height="95.78290682mm" viewBox="0 0 137.29428581999997 95.78290682" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Wire023" transform="translate(1.346022,1.346022) scale(1,-1)">
+<path id="Wire023_w0000"  d="M 0.0 -7.125 L 38.0 -7.125 L 38.0 -2.375 L 57.0 -2.375 L 57.0 0.0 L 76.0 0.0 L 76.0 -2.375 L 95.0 -2.375 L 95.0 -4.75 L 114.0 -4.75 L 114.0 -7.0 L 134.602241 -7.0 L 134.602241 -68.40913800000001 L 120.352241 -93.09086199999999 L 103.717514 -83.885076 L 66.50000000000001 -79.0 L 57.0 -64.125 L 0.0 -64.125 L 0.0 -7.125 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'PCB\xe5\xa4\x96\xe8\xbe\xb9\xe6\xa1\x86 \xe6\x89\xa9\xe5\xb1\x950.5'</title>
 </g>
 </svg>
